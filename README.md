@@ -8,4 +8,4 @@ Exemplos uso de ArrayList
 
 4 - Como verificar se o elemento existe em Java ArrayList? (F1 - forma um).
 
-5 - Como verificar se o elemento existe em Java ArrayList? (F1 - forma dois).
+5 - Como verificar se o elemento existe em Java ArrayList? (F2 - forma dois).
