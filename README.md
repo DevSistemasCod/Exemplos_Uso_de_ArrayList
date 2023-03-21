@@ -11,3 +11,5 @@ Exemplos uso de ArrayList
  - Exemplo de como verificar se o elemento existe em um ArrayList? (F2 - forma dois).
 
  - Exemplo de passagem de ArrayList como parâmetro.
+ 
+ - Exemplo uso de Iterator.
